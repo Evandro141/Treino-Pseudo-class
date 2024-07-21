@@ -3,6 +3,11 @@ seletor:pseudo-class {
     propriedade: valor
 } */
 
+
+h1 {
+    background-color: red;
+}
+
 /* First-child = Estilizando o Primerio Elemento de Uma Tag Pai  */
 p:first-child {
     color: red;
